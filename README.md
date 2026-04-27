@@ -59,6 +59,7 @@
 ## How to reach me
 
 [<img src='https://img.shields.io/badge/Email-Carolina%20Arce-blue' alt='email'>](mailto:caro.n.arce@gmail.com) 
+
 [<img src='https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social' alt='linkedin'>]
 
 
