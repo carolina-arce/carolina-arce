@@ -1,36 +1,37 @@
 ## About me
 
-#### Hi there 👋, my name is Carolina.
-• I graduated as a Systems Analyst in 2019. I am currently a graduate of the Full Stack Web Developer Career at Henry.
-<br>
-• I am motivated by the creation of solutions and teamwork.
-<br>
-• I am a very curious person, I am always researching, reading or learning something new.
-<br>
-• I would like to have the opportunity to contribute in small or large projects to challenge myself, know and learn new technologies.
+**Hi there 👋, my name is Carolina.**
+
+- 🎓 Systems Analyst graduated in 2019 and Full Stack Web Developer (Henry Bootcamp)
+- 💼 Currently working as Systems Analyst
+- 👩‍💻 I also develop internal applications — REST APIs, MVC web apps and Android mobile apps
+- 🌱 Currently learning NestJS and TypeScript to expand my backend skills
+- 🚀 I enjoy technical challenges and building solutions that add real value to processes
 
 
 ## Skills
-<p align="center">
-<img src ="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> 
-<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/-Scss-CC6699?style=flat&logo=sass&logoColor=white">
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
-  <img src="https://img.shields.io/badge/-jQuery-FFFFFF?style=flat&logo=jquery&logoColor=086FB7">
-<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-React.js-000000?style=flat&logo=react&logoColor=00c8ff">
-<img src="https://img.shields.io/badge/-Redux-5E4194?style=flat&logo=redux&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
-<img src="https://img.shields.io/badge/-Express-787878?style=flat&logo=express">
-<img src="https://img.shields.io/badge/-Sequelize-1572B6?style=flat&logo=sequelize&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-PostgreSQL-326590?style=flat&logo=postgresql&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/-Mongoose-880000?style=flat">
-<img src="https://img.shields.io/badge/MongoDB-C9DDCA?style=flat&logo=mongodb">
-<img src="https://img.shields.io/badge/-SQL Server-1E71B5?style=flat&logo=microsoftsqlserver&logoColor=FFFFFF">
-  <img src="http://img.shields.io/badge/-Mocha-896241?style=flat&logo=mocha&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-</p>
+<div align="center">
+  
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+  ![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat&logo=react&logoColor=black)
+  ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+  ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+  ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+  ![.NET Core](https://img.shields.io/badge/.NET_Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![SCRUM](https://img.shields.io/badge/SCRUM-6DB33F?style=flat&logo=scrumalliance&logoColor=white)
+
+</div>
+
 
 ## My Projects
 
@@ -54,10 +55,12 @@
 - English (intermediate)
 - Portuguese (intermediate)
 
-
+  
 ## How to reach me
 
 [<img src='https://img.shields.io/badge/Email-Carolina%20Arce-blue' alt='email'>](mailto:caro.n.arce@gmail.com) 
+[<img src='https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social' alt='linkedin'>]
 
-[<img src='https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social' alt='linkedin'>](https://www.linkedin.com/in/carolinanarce/)  
+
+(https://www.linkedin.com/in/carolinanarce/)  
 
