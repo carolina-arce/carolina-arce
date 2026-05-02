@@ -55,7 +55,7 @@
 - English (intermediate)
 - Portuguese (intermediate)
 
-  
+
 ## How to reach me
 
 [<img src='https://img.shields.io/badge/Email-Carolina%20Arce-blue' alt='email'>](mailto:caro.n.arce@gmail.com) 
